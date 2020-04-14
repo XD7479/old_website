@@ -3,7 +3,7 @@ title: Xiaoding YUAN
 SEOTitle: Xiaoding Yuan's Blog
 header-img: img/post-bg-desk.jpg
 email: xiaodingyuan.tj@gmail.com
-description: "每日三问：文章投出去了吗？新课题有进展吗？有老板要你吗？"
+description: "想有个学上太难了"
 keyword: "Blog, C/C++, Python, Linux, Machine Learning, 3D reconstruction，gap year"
 url: "http://xd7479.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -19,7 +19,7 @@ sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/abo
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:     小鸡
+zhihu_username:     yuan-xiao-ding-28
 github_username:    xd7479
 # facebook_username:  
 # jianshu_username:   
