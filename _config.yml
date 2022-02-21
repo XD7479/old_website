@@ -1,17 +1,17 @@
 # Site settings
-title: Xiaoding YUAN
-SEOTitle: Xiaoding Yuan's Blog
+title: Xiaoding Yuan
+SEOTitle: Xiaoding's Blog
 header-img: img/post-bg-desk.jpg
 email: xiaodingyuan7479@gmail.com
-description: "CS PhD at Johns Hopkins University"
-keyword: "Computer Vision"
+description: "CS PhD @ Johns Hopkins University"
+keyword: "CS PhD, Computer Science, Suspense film fanatic, Basketball🏀"
 url: "http://xd7479.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/XD7479/xd7479.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "CS PhD at Johns Hopkins University"
+sidebar-about-description: "CS PhD @ Johns Hopkins University"
 sidebar-avatar: /img/siderbar_image.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -21,6 +21,7 @@ RSS: false
 # weibo_username:     
 zhihu_username:     yuan-xiao-ding-28
 github_username:    xd7479
+linkedin_username:  xiaoding-yuan-340185191
 # facebook_username:  
 # jianshu_username:   
 #twitter_username:   
