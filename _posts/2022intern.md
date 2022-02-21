@@ -19,16 +19,16 @@ tags:
 
 抱着试一试没坏处的心态，最后还是决定先申请。毕竟最后有没有offer都很难说，权当是为第二年积累一些面试经验罢了。
 
-###经过
+### 经过
 从12月初发出第一封简历开始，到2月中旬正式结束，前前后后经历了两个多月。
 
-####MSRA
+#### MSRA
 
 翻了一下邮件记录，第一封邮件是 11/29 发给MSRA, redmond的。Redmond有一个很强的cv组，很想跟着其中一位做unsupervised video representation learning。现在想来确实有点不自量力了，没有unsupervised learning的经验，也没有认识的人给内推，不过当时确实很想挑战一下。
 
 结果当然毫不意外，杳无音讯。
 
-####Adobe - Team 1
+#### Adobe - Team 1
 Adobe的经历就比较有趣了。
 
 先说第一次面试，12月初，实验室师姐跟我说Adobe有组想做amodal segmentation，可以内推。我当然很高兴，这个方向本来做的人就少，有合适的机会还是很难得的。私下猜测当时这个hc比较急，也有可能面试官就是雷厉风行的性格，没过几天就面试了。
@@ -37,7 +37,7 @@ Adobe没有coding，松一大口气，就是聊聊自己的research经历，以�
 
 侧面听说对方的面试策略就是先把candidate pool搞大，再挑合适的。在对方的角度考虑，先把pool扩大的策略还是比较合理的，毕竟在时间上，12月也还算早。
 
-####Adobe - Team 2
+#### Adobe - Team 2
 12月中旬海投了Adobe CV research intern，收到了来自Adobe - London某组的面试邀请，当时挺惊讶的。mentors都在伦敦，但是position based on San Jose. 
 
 面试也是纯research，聊了research经历以及对方给的project。刚听完感觉很有意思，后来跟cl讨论了下，似乎是一个比较engineering的问题，或者比较内部的research project。问题没有well-defiend，并且确实缺少public dataset和baseline。感觉不是很好发paper。
@@ -66,7 +66,7 @@ Coding 题目是 k closest numbers to x in an unsorted list. $O(NlogK)$ 的方�
 
 2/10左右收到了正式offer。
 
-####Tiktok
+#### Tiktok
 再说tiktok，也就是北美字节。
 
 1月中旬，找在tiktok的师兄内推之后，1月下旬收到了recruiter安排面试的邮件。面试时间也是2月初，也就是说今年过年不仅第一次不在家，还同时面了Amazon和Tiktok... 有点惨。
